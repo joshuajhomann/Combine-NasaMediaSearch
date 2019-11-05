@@ -1,0 +1,6 @@
+framework module Pods_NasaImageBrowserTests {
+  umbrella header "Pods-NasaImageBrowserTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
